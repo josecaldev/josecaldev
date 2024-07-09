@@ -32,7 +32,7 @@
 <h3 align="left">📥 More about me</h3>
 
 - ⚡ Hobbies: Calisthenics, Hiking, Biking, Skydiving, Motorsports, Architecture 🤘
-- 💼 Got a Freelance gig? Hit me up via <a href="mailto:work@josecaldev.com">email</a>! 📫 
+- 💼 Got a Freelance gig? Hit me up via <a href="mailto:work@josecaldev.com">email</a> 📫 
 - 💬 Curious? Just ask! 😉
 - ![](https://komarev.com/ghpvc/?username=josecaldev&color=green&style=flat)
 
