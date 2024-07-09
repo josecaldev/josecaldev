@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Juan José Calderón</h1>
-<h3 align="center">🍏 An iOS Engineer based on Colombia 🇨🇴</h3>
-<p align="center">🌱 I'm currently on the journey of becoming an iOS Developer, follow my journey to see me fail 🚀</p>
+<h1 align="center">Hi 👋, I'm Juan José Calderón 🇨🇴</h1>
+<h3 align="center">🍏 A Software Engineer on the journey of becoming an iOS Developer 🌱</h3>
+<p align="center">☝️ I enjoy solving problems thru technology and feeling ownership and have critical view of the product 🤓</p>
+<p align="center">🗿 Follow me to see me fail and learn on the journey 🚀</p>
 
-<h3 align="left">🧰 My current Tools</h3>
+
+<h3 align="left">🧰 My Development Environment</h3>
 <p align="left">
    <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=%23F05138" alt="swift" height="35"/></a>
    <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&logoColor=%23147EFB" alt="xcode" height="35"/></a>
