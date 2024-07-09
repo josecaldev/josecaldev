@@ -6,10 +6,11 @@
 <p align="left">
    <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=%23F05138" alt="swift" height="40"/></a>
    <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&logoColor=%23147EFB" alt="xcode" height="40"/></a>
+   <a href="https://sketch.com"><img src="https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch&logoColor=%23F7B500" alt="sketch" height="40"/></a>
    <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28" alt="firebase" height="40"/></a>
    <a href="https://postman.com"><img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=%23FF6C37" alt="postman" height="40"/></a>
    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=%#F05032" alt="git" height="40"/></a>
-   <a href="https://sketch.com"><img src="https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch&logoColor=%23F7B500" alt="sketch" height="40"/></a>
+   
    
 
 </p>
