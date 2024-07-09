@@ -30,7 +30,7 @@
 
 <h3 align="left">📥 More about me</h3>
 
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: ...
 - 💼 Got a Freelance gig? Curious? Just ask! Hit me up via <a href="mailto:work@josecaldev.com">email </a> 📫 !
 - 💬 Curious? Just ask !
 
