@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan José Calderón 🇨🇴</h1>
 <h3 align="center">💻 A Software Engineer on the journey of becoming an iOS Developer 🌱</h3>
-<p align="center">❤️ Love to bring ideas to life into mobile apps. Therefore I'm exited about designing and developing mobile applications. Currently focused on the Apple ecosystem 🍏 I enjoy solving problems thru technology and feeling ownership and have critical view of the product 🤓</p>
+<p align="center">❤️ Love to bring ideas to life into mobile apps. Therefore, I'm exited about designing and developing mobile applications. Currently focused on the Apple ecosystem 🍏 I enjoy solving problems thru technology and feeling ownership and have critical view of the product 🤓</p>
 <p align="center">🗿 Follow me to see me fail and learn on the journey 🚀</p>
 
 <h3 align="left">🧰 My Development Environment</h3>
