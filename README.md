@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan José Calderón 🇨🇴</h1>
 <h3 align="center">🍏 A Software Engineer on the journey of becoming an iOS Developer 🌱</h3>
-<p align="center">☝️ I enjoy solving problems thru technology and feeling ownership and have critical view of the product 🤓</p>
+<p align="center">❤️ Love to bring ideas to life into mobile apps. Therefore I'm exited about designing and developing mobile applications. Currently focused on iOS ecosystem. I enjoy solving problems thru technology and feeling ownership and have critical view of the product 🤓</p>
 <p align="center">🗿 Follow me to see me fail and learn on the journey 🚀</p>
-
 
 <h3 align="left">🧰 My Development Environment</h3>
 <p align="left">
@@ -12,9 +11,6 @@
    <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28" alt="firebase" height="35"/></a>
    <a href="https://postman.com"><img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=%23FF6C37" alt="postman" height="35"/></a>
    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=%#F05032" alt="git" height="35"/></a>
-   
-   
-
 </p>
 
 <h3 align="left">📚 What Languages, Frameworks and Tools I've learned</h3>
@@ -33,7 +29,7 @@
 
 <h3 align="left">📥 More about me</h3>
 
-- ⚡ Hobbies: Calisthenics, Hiking, Biking, Skydiving, Motorsports, Architecture 🤘
+- ⚡ Hobbies: Calisthenics, Hiking, Ultimate Frisbee, Biking, Skydiving, Motorsports, Architecture 🤘
 - 💼 Got a Freelance gig? Hit me up via <a href="mailto:work@josecaldev.com">email</a> 📫 
 - 💬 Curious? Just ask! 😉
 - ![](https://komarev.com/ghpvc/?username=josecaldev&color=green&style=flat)
