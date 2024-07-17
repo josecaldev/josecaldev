@@ -13,7 +13,7 @@
    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=%#F05032" alt="git" height="35"/></a>
 </p>
 
-<h3 align="left">📚 What Languages, Frameworks and Tools I've learned</h3>
+<h3 align="left">📚 What Languages, Frameworks and Tools I've experience with</h3>
 <p align="left">
    <a href="https://javascript.com"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E" alt="javascript" height="35"/></a>
    <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6" alt="ypescript" height="35"/></a>
